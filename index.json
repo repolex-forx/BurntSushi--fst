@@ -1,0 +1,11 @@
+{
+  "org": "BurntSushi",
+  "repo": "fst",
+  "versions": [
+    {
+      "commit": "ac9ad1c39976e0e6c06f0bbe8522ed6eb8d97620",
+      "tag": "fst-regex-0.3.0",
+      "parsed_at": "2026-11-23T04:07:06.269749+00:00"
+    }
+  ]
+}
